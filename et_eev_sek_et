@@ -1,0 +1,23 @@
+"","Energieträger","Sektor","TWh_2022"
+"1","Erneuerbare","Gewerbe, Handel, Dienstl.",37.071418546
+"2","Erneuerbare","Industrie",31.173358272
+"3","Erneuerbare","Priv. Haushalte",111.65981155
+"4","Fernwärme","Gewerbe, Handel, Dienstl.",23.167995756604
+"5","Fernwärme","Industrie",46.802706053246
+"6","Fernwärme","Priv. Haushalte",43.47355561215
+"7","Gas","Gewerbe, Handel, Dienstl.",102.823291703012
+"8","Gas","Industrie",212.433798002458
+"9","Gas","Priv. Haushalte",249.201506027712
+"10","Gas","Verkehr",1.92777932
+"11","Kohle","Gewerbe, Handel, Dienstl.",0.010031396914
+"12","Kohle","Industrie",122.677043697112
+"13","Kohle","Priv. Haushalte",3.285128739212
+"14","Kohle","Verkehr",0
+"15","Öl/Kraftstoffe","Gewerbe, Handel, Dienstl.",76.854421483488
+"16","Öl/Kraftstoffe","Industrie",23.429989855088
+"17","Öl/Kraftstoffe","Priv. Haushalte",105.455960475812
+"18","Öl/Kraftstoffe","Verkehr",677.61474625803
+"19","Strom","Gewerbe, Handel, Dienstl.",133.065071174194
+"20","Strom","Industrie",188.534526938612
+"21","Strom","Priv. Haushalte",139.286707818166
+"22","Strom","Verkehr",13.306672311996

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Jahr;Monat;values
 2022;Dez;0
 2022;Nov;0
@@ -60,7 +59,8 @@ Jahr;Monat;values
 2018;Mrz;0
 2018;Feb;0
 2018;Jan;0
-=======
+;;
+=======;;
 Jahr;Monat;values
 2022;Dez;0
 2022;Nov;0
@@ -122,4 +122,4 @@ Jahr;Monat;values
 2018;Mrz;0
 2018;Feb;0
 2018;Jan;0
->>>>>>> c77716af5db13083aef68e9ce7271b0d4747b601
+>>>>>>> c77716af5db13083aef68e9ce7271b0d4747b601;;
